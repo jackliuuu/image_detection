@@ -1,4 +1,4 @@
-#image_detection
+image_detection
 ====
 #Shopee Code League for 42 categories image detection
 #kaggle https://www.kaggle.com/c/shopee-product-detection-student/leaderboard
